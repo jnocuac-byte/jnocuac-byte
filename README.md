@@ -41,5 +41,5 @@ Mis intereses se centran en el ecosistema de arquitectura moderna y la nube:
 * 🔭 **Actualmente trabajando en:** Expandiendo funcionalidades del portal web en GCP, enfocándome en Microservicios y contenedores.
 * 🌱 **Estoy aprendiendo:** Profundizando en **Kubernetes** y servicios avanzados de GCP.
 * 💬 **Pregúntame sobre:** Desarrollo backend con Spring, arquitectura de Microservicios o sobre el proceso de despliegue en Google Cloud.
-* 🔗 **LinkedIn:** [www.linkedin.com/in/juan-esteban-nocua-camacho-bb2663269](https://www.linkedin.com/in/juan-esteban-nocua-camacho-bb2663269)
+* 🔗 **LinkedIn:** [www.linkedin.com/in/juan-esteban-nocua-camacho-a6b119385/](https://www.linkedin.com/in/juan-esteban-nocua-camacho-a6b119385/)
 * 📧 **Correo:** `jnocuac@ucentral.edu.co` | `juesnoca@hotmail.com`
