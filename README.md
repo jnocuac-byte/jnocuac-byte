@@ -72,20 +72,12 @@ Arquitectura multiagente · MCP · AWS Lambda · Microsoft Graph · Azure DevOps
 | Arquitectura Backend | Arquitectura limpia, hexagonal, resiliencia, Spring Boot y buenas prácticas |
 | Calidad y Datos | Pruebas automatizadas, datasets golden/no-golden y validación de integridad |
 
-## GitHub
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jnocuac-byte&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)](https://github.com/jnocuac-byte)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jnocuac-byte&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/jnocuac-byte)
-
-</div>
-
 ## Repositorios destacados
 
-[![XAI Ensemble IDS](https://github-readme-stats.vercel.app/api/pin/?username=jnocuac-byte&repo=XAI-Ensemble-IDS&theme=tokyonight&hide_border=true)](https://github.com/jnocuac-byte/XAI-Ensemble-IDS)
-[![EPS Digital](https://github-readme-stats.vercel.app/api/pin/?username=jnocuac-byte&repo=eps-digital&theme=tokyonight&hide_border=true)](https://github.com/jnocuac-byte/eps-digital)
+- [XAI-Ensemble-IDS](https://github.com/jnocuac-byte/XAI-Ensemble-IDS) — Detectores de anomalías con técnicas de machine learning e explicabilidad.
+- [eps-digital](https://github.com/jnocuac-byte/eps-digital) — Proyecto en Python relacionado con procesamiento y gestión digital.
+- [monkey-learn-data-analytics](https://github.com/jnocuac-byte/monkey-learn-data-analytics) — Prácticas de análisis de datos con Python.
+- [ChatbotRasaPy](https://github.com/jnocuac-byte/ChatbotRasaPy) — Chatbot desarrollado con Rasa para orientación temática de salud.
 
 ---
 
